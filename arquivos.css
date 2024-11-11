@@ -49,10 +49,9 @@ figcaption {
 }
 
 img {
-    border-radius: 10px;
-    padding-top: 15px;
     width: 100%;
     height: auto;
+    max-width: none;
 }
 
 p {
