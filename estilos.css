@@ -118,7 +118,8 @@ main p {
 .spotify {
     display: flex;
     justify-content: center;
-    padding-left: 10px;
+    align-items: center;
+    padding: 10px;
 }
 
 .spotify a {
